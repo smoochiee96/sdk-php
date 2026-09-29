@@ -1,7 +1,6 @@
 {
     "name": "smoochiee96/sdk-php",
     "type": "library",
-	"version": "2.0.4",
     "description": "Authorize.Net PHP SDK (Maintained Fork)",
     "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
     "license": ["proprietary", "GPL-2.0-only"],
